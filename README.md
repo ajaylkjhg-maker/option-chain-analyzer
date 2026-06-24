@@ -24,7 +24,7 @@ A professional Python-based Option Chain Analyzer for traders and investors.
 
 ## Screenshots
 
-![Dashboard](https://raw.githubusercontent.com/ajaylkjhg-maker/option-chain-analyzer/main/screenshots/dashboard.png)
+<img src="screenshots/image.png" alt="Dashboard" width="900">
 
 ## Installation
 
