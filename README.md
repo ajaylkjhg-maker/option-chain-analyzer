@@ -2,6 +2,10 @@
 
 A professional Python-based Option Chain Analyzer for traders and investors.
 
+## Screenshots
+
+<img src="screenshots/image.png" alt="Dashboard" width="900">
+
 ## Features
 
 - Open Interest (OI) Analysis
@@ -22,9 +26,6 @@ A professional Python-based Option Chain Analyzer for traders and investors.
 - Plotly
 - NSE Data APIs
 
-## Screenshots
-
-<img src="screenshots/image.png" alt="Dashboard" width="900">
 
 ## Installation
 
