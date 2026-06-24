@@ -26,8 +26,7 @@ A professional Python-based Option Chain Analyzer for traders and investors.
 
 ### Dashboard
 
-<img src="screenshots/dashboard.png" alt="Dashboard" width="900">
-
+![Dashboard](./screenshots/dashboard.png)
 
 ## Installation
 
